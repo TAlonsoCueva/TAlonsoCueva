@@ -1,10 +1,8 @@
 # Hi, I'm [Tomás]! 👋
 Welcome to my GitHub Profile!
 
-I am a back-end and fornt-end programmer with an academic background and a wide range of technical skills. My interest in computer science began with my studies in Computer Engineering at university, and I am committed to continuous learning and improving my technical skills.
-
-I am always looking for new opportunities that allow me to grow and add value in the field of computer science. I believe in the importance of staying up-to-date with the latest trends and technologies in this ever-evolving field.
-
+I am a back-end and fornt-end with mastery of technologies, Java, HTML, React and Python. I am currently training in the field of web programming, thus complementing my backend knowledge.
+I have acquired skills throughout my professional training such as teamwork, resilience, empathy and adaptability.
 ## 🛠 My Skills
 
 ### Programming languages
