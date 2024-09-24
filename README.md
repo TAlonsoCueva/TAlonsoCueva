@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">A passionate frontend and Backend developer from Barcelons, Spain</h3>
 
-- 💬 Ask me about **React,javaScript,java,MySql**
+- 💬 Ask me about **React, javaScript, java, MySql**
 
 - 📫 How to reach me **tominy2000@gmail.com**
 
