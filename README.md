@@ -23,4 +23,4 @@ I have acquired skills throughout my professional training such as teamwork, res
 
 [![TAlonsoCueva' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAlonsoCueva&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAlonsoCueva&layout=compact&theme=radical)](https://github.com/yourusername)
