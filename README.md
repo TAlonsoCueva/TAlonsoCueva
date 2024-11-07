@@ -1,5 +1,6 @@
-# Hi, I'm [Tomás]! 👋
-Welcome to my GitHub Profile!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomas+Alonso!;" />
+</h1>
 
 I am a back-end and fornt-end programmer with mastery of technologies, Java, HTML, React, Python, Unity. I am currently training in the field of web programming, thus complementing my backend knowledge.
 I have acquired skills throughout my professional training such as teamwork, resilience, empathy and adaptability.
