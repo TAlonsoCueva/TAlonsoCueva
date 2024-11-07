@@ -1,7 +1,7 @@
 # Hi, I'm [Tomás]! 👋
 Welcome to my GitHub Profile!
 
-I am a back-end and fornt-end programmer with mastery of technologies, Java, HTML, React and Python. I am currently training in the field of web programming, thus complementing my backend knowledge.
+I am a back-end and fornt-end programmer with mastery of technologies, Java, HTML, React, Python, Unity. I am currently training in the field of web programming, thus complementing my backend knowledge.
 I have acquired skills throughout my professional training such as teamwork, resilience, empathy and adaptability.
 ## 🛠 My Skills
 
